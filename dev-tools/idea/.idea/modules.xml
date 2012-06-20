@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module filepath="$PROJECT_DIR$/parent.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/lucene.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/demo/demo.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/highlighter/highlighter.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/memory/memory.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/misc/misc.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/sandbox/sandbox.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/analysis/common/analysis-common.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/analysis/icu/icu.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/analysis/kuromoji/kuromoji.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/analysis/morfologik/morfologik.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/analysis/phonetic/phonetic.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/analysis/smartcn/smartcn.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/analysis/stempel/stempel.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/analysis/uima/analysis-uima.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/benchmark/benchmark.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/facet/facet.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/grouping/grouping.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/join/join.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/queries/queries.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/queryparser/queryparser.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/spatial/spatial.iml" />
+      <module filepath="$PROJECT_DIR$/lucene/suggest/suggest.iml" />
+      <module filepath="$PROJECT_DIR$/solr/solr.iml" />
+      <module filepath="$PROJECT_DIR$/solr/contrib/analysis-extras/analysis-extras.iml" />
+      <module filepath="$PROJECT_DIR$/solr/contrib/clustering/clustering.iml" />
+      <module filepath="$PROJECT_DIR$/solr/contrib/dataimporthandler/dataimporthandler.iml" />
+      <module filepath="$PROJECT_DIR$/solr/contrib/dataimporthandler-extras/dataimporthandler-extras.iml" />
+      <module filepath="$PROJECT_DIR$/solr/contrib/extraction/extraction.iml" />
+      <module filepath="$PROJECT_DIR$/solr/contrib/langid/langid.iml" />
+      <module filepath="$PROJECT_DIR$/solr/contrib/uima/uima.iml" />
+      <module filepath="$PROJECT_DIR$/solr/contrib/velocity/velocity.iml" />
+    </modules>
+  </component>
+</project>
+
